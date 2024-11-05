@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Teaching"
-permalink: /pages/
+title: Teaching
+#permalink: /pages/
 ---
 
 <style>

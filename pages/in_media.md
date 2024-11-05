@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "In_Media"
-permalink: /pages/in_media/
+title: In_Media
+#permalink: /pages/in_media/
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Research"
-permalink: /pages/research/
+title: Research
+#permalink: /pages/research/
 ---
 
 <style>
