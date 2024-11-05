@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Home
+#title: Home
 #permalink: /
 ---
 
 <style>
   /* Ajustar o tamanho da fonte para parágrafos */
   .page-content p {
-    font-size: 0.95em;
+    font-size: 1.3em;
     line-height: 1.6em;
   }
 
@@ -33,7 +33,7 @@ title: Home
   /* Estilo para a seção de contatos à direita da imagem */
   .contacts {
     margin-top: 0;
-    font-size: 0.9em;
+    font-size: 1.3em;
     margin-left: 20px; /* Aumentar a distância entre a imagem e os contatos */
   }
 

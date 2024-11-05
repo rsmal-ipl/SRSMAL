@@ -1,6 +1,6 @@
 ---
 layout: default
-title: In_Media
+#title: In_Media
 #permalink: /pages/in_media/
 ---
 

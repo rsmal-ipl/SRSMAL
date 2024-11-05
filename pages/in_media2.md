@@ -1,13 +1,13 @@
 ---
 layout: default
-title: In_Media2
+#title: In_Media2
 #permalink: /pages/in_media2/
 ---
 
 <style>
   /* Ajustar o tamanho da fonte para parágrafos */
   .page-content p {
-      font-size: 0.95em;
+      font-size: 1.3em;
       line-height: 1.6em;
   }
 
@@ -22,7 +22,7 @@ title: In_Media2
     font-size: 0.9em; /* Diminui o tamanho dos parágrafos */
   }
   .my-list {
-  font-size: 0.9em;
+  font-size: 1.3em;
   line-height: 1.6em;
 }
 </style>
@@ -37,8 +37,8 @@ title: In_Media2
 
 
 <div style="font-size: 0.9em; text-align: center;">
-    <img src="../assets/images/Figura1.png" alt="Research Team" style="width: 100%; height: auto;">
-    <p style="font-size: small;">From left to right: Renato Panda, Rui Pedro Paiva, and Ricardo Malheiro</p>
+    <img src="../assets/images/Figura1.png" alt="Research Team" style="width: 80%; height: auto;">
+    <p style="font-size: medium;">From left to right: Renato Panda, Rui Pedro Paiva, and Ricardo Malheiro</p>
 </div>
 
 ### Other Media Outlets Featuring the News:

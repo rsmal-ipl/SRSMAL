@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Teaching
+#title: Teaching
 #permalink: /pages/
 ---
 
 <style>
   /* Ajustar o tamanho da fonte para parágrafos */
   .page-content p {
-    font-size: 0.95em;
+    font-size: 1.3em;
     line-height: 1.6em;
   }
 
   /* Ajustar o tamanho da fonte principal da página */
   .page-content {
-    font-size: 0.9em;
+    font-size: 1.3em;
   }
 </style>
 
