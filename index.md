@@ -45,6 +45,8 @@ layout: default
   /* Estilo para o texto principal */
   .main-text {
     margin-top: 30px; /* Espaço para iniciar abaixo da imagem e dos contatos */
+    font-size: 1.3em;
+    line-height: 1.6em;
   }
 </style>
 
@@ -59,7 +61,7 @@ layout: default
 
     <!-- Contatos ao lado direito da imagem -->
     <div class="contacts">
-      <h6>Contacts</h6>
+      <h2>Contacts</h2>
 	  <br>
       <div class="contact-item">Email (IPLeiria): <a href="mailto:ricardo.malheiro@ipleiria.pt">ricardo.malheiro@ipleiria.pt</a></div>
       <div class="contact-item">Email (University of Coimbra): <a href="mailto:rsmal@dei.uc.pt">rsmal@dei.uc.pt</a></div>
@@ -79,7 +81,7 @@ layout: default
 
     <p>I supervise several students at the PhD, MSc, and Bachelor's levels. Currently (2024/2025), I am supervising 3 PhD students and 11 MSc students. Most of these students are part of the <a href="https://www.cisuc.uc.pt/en/projects/MERGE" target="_blank">MERGE</a> project (Music Emotion Recognition, Next Generation 2022-2025), funded by FCT (PTDC/CCI-COM/3171/2021), for which I serve as the Technical Coordinator and lead several tasks.</p>
 
-    <h3>Important Links</h3>
+    <h2>Important Links</h2>
     <ul>
       <li><a href="https://www.cisuc.uc.pt/en/people/ricardo-malheiro" target="_blank">CISUC Page</a></li>
       <li><a href="https://mir.dei.uc.pt/index.html" target="_blank">CISUC-MIR Page</a></li>
@@ -91,7 +93,7 @@ layout: default
       <li><a href="https://scholar.google.com/citations?user=km30M3UAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
     </ul>
 
-    <h3>Affiliation</h3>
+    <h2>Affiliation</h2>
     <ul>
       <li>School of Technology and Management of the Polytechnic Institute of Leiria</li>
       <li>University of Coimbra, Centre for Informatics and Systems of the University of Coimbra</li>
