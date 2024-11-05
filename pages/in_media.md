@@ -32,13 +32,13 @@ title: In_Media
 <ul class="my-list">
   Information about our projects in the media:
 </ul>
-## <a href="in_media2/" target="_blank">
+## <a href="../pages/in_media2.md" target="_blank">
 <ul class="my-list">
-  1. Interview with the Press Officer of the University of Coimbra about a computer program that evaluates emotions in music (audio + lyrics). This was later disseminated through various media channels. 2019. [<a href="in_media2/" target="_blank">LINK</a>]
+  1. Interview with the Press Officer of the University of Coimbra about a computer program that evaluates emotions in music (audio + lyrics). This was later disseminated through various media channels. 2019. [<a href="../pages/in_media2.md" target="_blank">LINK</a>]
 </ul>
 
 <div style="font-size: 0.9em; text-align: center;">
-    <a href="../pages/in_media2/" target="_blank">
+    <a href="../pages/in_media2.md" target="_blank">
         <img src="../assets/images/Figura1.png" alt="Interview with Press Officer" style="width: 600px; height: auto; height: auto;">
     </a> 
 </div>
@@ -52,7 +52,7 @@ title: In_Media
 
 <div style="font-size: 0.9em; text-align: center;">
     <a href="https://www.90segundosdeciencia.pt/episodes/ep-824-rui-pedro-paiva/" target="_blank">
-        <img src="/assets/images/Figura2.png" alt="90 Seconds of Science" style="width: 600px; height: auto; height: auto;">
+        <img src="../assets/images/Figura2.png" alt="90 Seconds of Science" style="width: 600px; height: auto; height: auto;">
     </a>
 </div>
 
@@ -65,6 +65,6 @@ title: In_Media
 
 <div style="font-size: 0.9em; text-align: center;">
     <a href="https://www.rtp.pt/play/p383/e419888/os-dias-do-futuro" target="_blank">
-        <img src="/assets/images/Figura3.png" alt="Os Dias do Futuro" style="width: 600px; height: auto; height: auto;">
+        <img src="../assets/images/Figura3.png" alt="Os Dias do Futuro" style="width: 600px; height: auto; height: auto;">
     </a>
 </div>

@@ -37,7 +37,7 @@ title: In_Media2
 
 
 <div style="font-size: 0.9em; text-align: center;">
-    <img src="/assets/images/Figura1.png" alt="Research Team" style="width: 100%; height: auto;">
+    <img src="../assets/images/Figura1.png" alt="Research Team" style="width: 100%; height: auto;">
     <p style="font-size: small;">From left to right: Renato Panda, Rui Pedro Paiva, and Ricardo Malheiro</p>
 </div>
 
@@ -45,12 +45,12 @@ title: In_Media2
 
 
 <ul class="my-list">
-  <li>[<a href="/assets/pdfs/2019-07-08 - SIC - FCTUC - estudo emoção na música.pdf" target="_blank">SIC</a>]</li>
-  <li>[<a href="/assets/pdfs/2019-07-08 - RTP - FCTUC - estudo emoção na música.pdf" target="_blank">RTP</a>]</li>
-  <li>[<a href="/assets/pdfs/2019-07-08 - Visão - FCTUC - estudo emoção na música.pdf" target="_blank">Visão</a>]</li>
-  <li>[<a href="/assets/pdfs/2019-07-08 - Público - FCTUC - estudo emoção na música.pdf" target="_blank">Público</a>]</li>
-  <li>[<a href="/assets/pdfs/2019-07-08 - Observador - FCTUC - estudo emoção na música.pdf" target="_blank">Observador</a>]</li>
-  <li>[<a href="/assets/pdfs/2019-07-08 - Exame Informática - FCTUC - estudo emoção na música.pdf" target="_blank">Exame Informática</a>]</li>
-  <li>[<a href="/assets/pdfs/2019-07-08 - DN - FCTUC - estudo emoção na música.pdf" target="_blank">Diário de Notícias</a>]</li>
+  <li>[<a href="../assets/pdfs/2019-07-08 - SIC - FCTUC - estudo emoção na música.pdf" target="_blank">SIC</a>]</li>
+  <li>[<a href="../assets/pdfs/2019-07-08 - RTP - FCTUC - estudo emoção na música.pdf" target="_blank">RTP</a>]</li>
+  <li>[<a href="../assets/pdfs/2019-07-08 - Visão - FCTUC - estudo emoção na música.pdf" target="_blank">Visão</a>]</li>
+  <li>[<a href="../assets/pdfs/2019-07-08 - Público - FCTUC - estudo emoção na música.pdf" target="_blank">Público</a>]</li>
+  <li>[<a href="../assets/pdfs/2019-07-08 - Observador - FCTUC - estudo emoção na música.pdf" target="_blank">Observador</a>]</li>
+  <li>[<a href="../assets/pdfs/2019-07-08 - Exame Informática - FCTUC - estudo emoção na música.pdf" target="_blank">Exame Informática</a>]</li>
+  <li>[<a href="../assets/pdfs/2019-07-08 - DN - FCTUC - estudo emoção na música.pdf" target="_blank">Diário de Notícias</a>]</li>
 </ul>
 
