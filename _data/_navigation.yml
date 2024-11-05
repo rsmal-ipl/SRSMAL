@@ -1,0 +1,11 @@
+- title: "Home"
+  url: "/"
+
+- title: "Teaching"
+  url: "/pages/teaching/"
+
+- title: "Research"
+  url: "/pages/research/"
+
+- title: "In Media"
+  url: "/pages/in_media/"
