@@ -17,7 +17,10 @@ layout: default
   }
 </style>
 
-### Teaching
+
+<br>
+
+## Teaching
 
 - [Academic Qualifications](#academic-qualifications)
 - [Teaching Activities](#teaching-activities)
@@ -25,23 +28,23 @@ layout: default
 
 ---
 
-### Academic Qualifications 
+## Academic Qualifications 
 
-##### 2017 - PhD in Information Science and Technology
+### 2017 - PhD in Information Science and Technology
 - Final classification: "Approved Unanimously with Distinction and Honors" (highest classification at UC) - Summa Cum Laude
 - Thesis title: "Emotion-Based Analysis and Classification of Music Lyrics"
 - Supervisors: Prof. Rui Pedro Paiva, Prof. Paulo Gomes
 - Research Group: "Cognitive and Media Systems" at the Center for Informatics and Systems of the University of Coimbra (CISUC)
 - Faculty: Faculty of Science and Technology, University of Coimbra (FCTUC)
 
-##### 2004 - Master's in Informatics Engineering
+### 2004 - Master's in Informatics Engineering
 - Final classification: "Very Good" (highest classification at UC)
 - Thesis title: "Automatic Classification Systems in Musical Genres"
 - Supervisor: Prof. António José Mendes
 - Research Group: "Simulation and Information Technologies in Education and Training" at CISUC
 - Faculty: Faculty of Science and Technology, University of Coimbra (FCTUC)
 
-##### 1997 - Bachelor's in Mathematics - Specialization in Systems and Computer Graphics Methods
+### 1997 - Bachelor's in Mathematics - Specialization in Systems and Computer Graphics Methods
 - Internship at CCG/ZGDV (Center for Computer Graphics) from June 1996 to February 1997, with a final grade of 18/20
 - The internship involved implementing a Multimedia Kiosk for CP (Portuguese Railways)
 - PRODEP Scholarship holder during the internship period
@@ -51,7 +54,7 @@ layout: default
 
 ---
 
-### Teaching Activities
+## Teaching Activities
 
 I have been a university professor since the academic year 1998/1999, teaching a wide variety of courses mainly in the fields of Informatics and Data Science at various levels, including Master's, Bachelor's, Technical Specialization Courses (TeSP), and Technological Specialization Courses (CET).
 
@@ -59,15 +62,15 @@ The main scientific areas taught include: Data Science, Artificial Intelligence,
 
 Below are the courses taught in the current year:
 
-##### 2024-2025
+### 2024-2025
 
-###### Semester 1
+#### Semester 1
 - Text Mining (TP), Master's in Data Science, Polytechnic Institute of Leiria
 - Decision Support Systems (PL), Bachelor's in Informatics Engineering, Polytechnic Institute of Leiria
 - Multimedia Project Methodology (TPx2), TeSP in Multimedia Web Development, Polytechnic Institute of Leiria
 - Programming for Data Science (TP), Master's in Data Analysis and Decision Support Systems, ISCAC (Coimbra Institute of Accounting and Administration)
 
-###### Semester 2
+#### Semester 2
 - Data Mining (TP), Master's in Data Science, Polytechnic Institute of Leiria
 - Knowledge Engineering (PLx2), Bachelor's in Informatics Engineering, Polytechnic Institute of Leiria
 - Software Engineering (TP), Bachelor's in Informatics Engineering, Polytechnic Institute of Leiria
@@ -80,7 +83,7 @@ Other courses frequently taught include Decision Support Systems, Data Warehouse
 
 ---
 
-### Positions Held
+## Positions Held
 
 Throughout my more than 20 years of experience, I have held several important positions, particularly at the Polytechnic Institute of Leiria (IPL) and Instituto Superior Miguel Torga (ISMT):
 

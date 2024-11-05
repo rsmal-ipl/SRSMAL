@@ -27,7 +27,9 @@ layout: default
 }
 </style>
 
-### Computer Program for Evaluating Emotions in Songs
+<br>
+
+## Computer Program for Evaluating Emotions in Songs
 
 <ul class="my-list">
   The Press Officer of the University of Coimbra interviewed us regarding the recent advances in our work, especially focusing on the completion of my Ph.D. on lyrics and Renato Panda's Ph.D. on audio. The information was published in several national newspapers.
@@ -41,7 +43,7 @@ layout: default
     <p style="font-size: medium;">From left to right: Renato Panda, Rui Pedro Paiva, and Ricardo Malheiro</p>
 </div>
 
-### Other Media Outlets Featuring the News:
+## Other Media Outlets Featuring the News:
 
 
 <ul class="my-list">

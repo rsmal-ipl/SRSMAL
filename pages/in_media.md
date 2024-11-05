@@ -27,7 +27,9 @@ layout: default
 }
 </style>
 
-### In Media
+<br>
+
+## In Media
 
 <ul class="my-list">
   Information about our projects in the media:
@@ -50,7 +52,7 @@ layout: default
   2. Professor Rui Pedro Paiva presents the MOODetector project, of which he is the coordinator, on the radio program "90 Seconds of Science" on Antena 1. 2020. [<a href="https://www.90segundosdeciencia.pt/episodes/ep-824-rui-pedro-paiva/" target="_blank">LINK</a>]
 </ul>
 
-<div style="font-size: 1.2em; text-align: center;">
+<div style="font-size: 1.3em; text-align: center;">
     <a href="https://www.90segundosdeciencia.pt/episodes/ep-824-rui-pedro-paiva/" target="_blank">
         <img src="../assets/images/Figura2.png" alt="90 Seconds of Science" style="width: 400px; height: auto; height: auto;">
     </a>
@@ -63,7 +65,7 @@ layout: default
   3. Interview with Rui Pedro Paiva (my PhD supervisor) on the RTP Play program "Os Dias do Futuro," where he references my PhD work. The interview is from minute 20'22'' until the end. 2019. [<a href="https://www.rtp.pt/play/p383/e419888/os-dias-do-futuro" target="_blank">LINK</a>]
 </ul>
 
-<div style="font-size: 1.2em; text-align: center;">
+<div style="font-size: 1.3em; text-align: center;">
     <a href="https://www.rtp.pt/play/p383/e419888/os-dias-do-futuro" target="_blank">
         <img src="../assets/images/Figura3.png" alt="Os Dias do Futuro" style="width: 400px; height: auto; height: auto;">
     </a>

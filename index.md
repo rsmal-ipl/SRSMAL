@@ -13,7 +13,7 @@ layout: default
 
   /* Ajustar imagem na página index.md */
   .index-image {
-    width: 260px; /* Pode ajustar conforme necessário */
+    /*width: 260px;  Pode ajustar conforme necessário */
     border-radius: 10%;
   }
 
@@ -51,12 +51,12 @@ layout: default
 </style>
 
 <div style="font-size: 0.9em;">
-  <h2>Ricardo Malheiro</h2>
+  
   <br>
   <div class="content-container">
     <!-- Imagem -->
     <div class="side-content">
-      <img src="RM.JPG" alt="Ricardo Malheiro" class="index-image">
+      <img src="RM.JPG" alt="Ricardo Malheiro" class="index-image" style="width: 200px; height: auto; height: auto;>
     </div>
 
     <!-- Contatos ao lado direito da imagem -->
@@ -81,6 +81,7 @@ layout: default
 
     <p>I supervise several students at the PhD, MSc, and Bachelor's levels. Currently (2024/2025), I am supervising 3 PhD students and 11 MSc students. Most of these students are part of the <a href="https://www.cisuc.uc.pt/en/projects/MERGE" target="_blank">MERGE</a> project (Music Emotion Recognition, Next Generation 2022-2025), funded by FCT (PTDC/CCI-COM/3171/2021), for which I serve as the Technical Coordinator and lead several tasks.</p>
 
+    <br>
     <h2>Important Links</h2>
     <ul>
       <li><a href="https://www.cisuc.uc.pt/en/people/ricardo-malheiro" target="_blank">CISUC Page</a></li>
@@ -93,6 +94,7 @@ layout: default
       <li><a href="https://scholar.google.com/citations?user=km30M3UAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
     </ul>
 
+    <br>
     <h2>Affiliation</h2>
     <ul>
       <li>School of Technology and Management of the Polytechnic Institute of Leiria</li>
