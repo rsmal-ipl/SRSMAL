@@ -32,14 +32,14 @@ title: In_Media
 <ul class="my-list">
   Information about our projects in the media:
 </ul>
-## <a href="../pages/in_media2/" target="_blank">
+## <a href="in_media2/" target="_blank">
 <ul class="my-list">
-  1. Interview with the Press Officer of the University of Coimbra about a computer program that evaluates emotions in music (audio + lyrics). This was later disseminated through various media channels. 2019. [<a href="../pages/in_media2/" target="_blank">LINK</a>]
+  1. Interview with the Press Officer of the University of Coimbra about a computer program that evaluates emotions in music (audio + lyrics). This was later disseminated through various media channels. 2019. [<a href="in_media2/" target="_blank">LINK</a>]
 </ul>
 
 <div style="font-size: 0.9em; text-align: center;">
     <a href="../pages/in_media2/" target="_blank">
-        <img src="/assets/images/Figura1.png" alt="Interview with Press Officer" style="width: 600px; height: auto; height: auto;">
+        <img src="../assets/images/Figura1.png" alt="Interview with Press Officer" style="width: 600px; height: auto; height: auto;">
     </a> 
 </div>
 
