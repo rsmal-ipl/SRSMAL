@@ -7,7 +7,7 @@ title: In_Media
 <style>
   /* Ajustar o tamanho da fonte para parágrafos */
   .page-content p {
-      font-size: 0.95em;
+      font-size: 1.3em;
       line-height: 1.6em;
   }
 
@@ -19,10 +19,10 @@ title: In_Media
       width: 300px; /* Pode ajustar conforme necessário */
   }
   p {
-    font-size: 0.9em; /* Diminui o tamanho dos parágrafos */
+    font-size: 1.3em; /* Diminui o tamanho dos parágrafos */
   }
   .my-list {
-  font-size: 0.9em;
+  font-size: 1.3em;
   line-height: 1.6em;
 }
 </style>
