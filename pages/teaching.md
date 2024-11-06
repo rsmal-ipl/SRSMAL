@@ -16,12 +16,15 @@ layout: default
     font-size: 1.3em;
   }
 
+  p {
+    font-size: 1.3em; /* Diminui o tamanho dos parágrafos */
+  }
+
   .my-list {
   font-size: 1.3em;
   line-height: 1.6em;
   }
 </style>
-
 
 <br>
 
@@ -104,7 +107,7 @@ layout: default
 <p>Throughout my more than 20 years of experience, I have held several important positions, particularly at the Polytechnic Institute of Leiria (IPL) and Instituto Superior Miguel Torga (ISMT):</p>
 
 <ul class="my-list">
-  <li>Coordinator of the Information Technology Department** at ISMT (2006-2015 and 2018-2021). The position was held either in partnership with another faculty member or alone.</li>
+  <li><strong>Coordinator of the Information Technology Department </strong>at ISMT (2006-2015 and 2018-2021). The position was held either in partnership with another faculty member or alone.</li>
   <li><strong>Coordinator of the Bachelor's in Informatics (Bologna) </strong>at ISMT (2018-2021)</li>
   <li><strong>Coordinator of the Bachelor's in Computer Science for Business (Pre-Bologna) </strong>at ISMT (2005-2009)</li>
   <li><strong>Coordinator of the Bachelor's in Informatics (Pre-Bologna) </strong>at ISMT (2007-2009)</li>
