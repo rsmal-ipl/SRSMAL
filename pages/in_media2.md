@@ -5,6 +5,36 @@ layout: default
 ---
 
 <style>
+   /* Estilo para o menu de navegação */
+  nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 18px; /* Aumenta o tamanho da fonte */
+    font-family: Arial, sans-serif; /* Define uma fonte sem serifa */
+  }
+
+  nav ul li {
+    margin-right: 15px; /* Espaçamento entre itens do menu */
+  }
+
+  nav ul a {
+    padding: 10px;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  nav ul a:hover {
+    text-decoration: underline; /* Sublinhado ao passar o mouse */
+  }
+
+  /* Destaca a aba da página atual usando o atributo aria-current */
+  nav ul a[aria-current="page"] {
+    color: #ff6600; /* Cor destacada para a aba ativa */
+    font-weight: bold;
+  }
+  
   /* Ajustar o tamanho da fonte para parágrafos */
   .page-content p {
       font-size: 1.3em;
