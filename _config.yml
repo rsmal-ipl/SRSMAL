@@ -1,4 +1,4 @@
-#title: "Ricardo Malheiro Website"
+title: "Ricardo Malheiro Website"
 description: "Site académico com informações sobre pesquisa, ensino e mais"
 theme: minima  # Pode usar o tema 'minima' para um layout básico
 remote_theme: "pages-themes/minimal@v0.2.0"  # Alternativa remota

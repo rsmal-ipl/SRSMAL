@@ -55,16 +55,23 @@ layout: default
   font-size: 1.3em;
   line-height: 1.6em;
 }
+
+.my-list2 {
+  font-size: 1.3em;
+  line-height: 0.8em;
+}
 </style>
 
 <br>
 
 # Research
 
-- [Projects](#projects)
-- [Publications](#publications)
-- [Supervisions](#supervisions)
-- [Article Reviews and Guest Editor](#article-reviews-and-guest-editor)
+<ul class="my-list2">
+  <li>[Projects](#projects)</li>
+  <li>[Publications](#publications)</li>
+  <li>[Supervisions](#supervisions)</li>
+  <li>[Article Reviews and Guest Editor](#article-reviews-and-guest-editor)</li>
+</ul>
 
 ---
 
