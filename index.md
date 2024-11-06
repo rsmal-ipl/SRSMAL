@@ -38,6 +38,8 @@ layout: default
     display: flex;
     flex-direction: column;
     justify-content: flex-start; /* Garante que o conteúdo de contatos começa no topo */
+    font-size: 1.3em;
+    line-height: 1.6em;
     /*margin-top: 0;
     font-size: 1.3em;
     margin-left: 20px;  Aumentar a distância entre a imagem e os contatos */
