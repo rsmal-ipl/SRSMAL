@@ -66,12 +66,10 @@ layout: default
 
 # Research
 
-<ul class="my-list2">
-  <li>[Projects](#projects)</li>
-  <li>[Publications](#publications)</li>
-  <li>[Supervisions](#supervisions)</li>
-  <li>[Article Reviews and Guest Editor](#article-reviews-and-guest-editor)</li>
-</ul>
+- [Projects](#projects)
+- [Publications](#publications)
+- [Supervisions](#supervisions)
+- [Article Reviews and Guest Editor](#article-reviews-and-guest-editor)
 
 ---
 

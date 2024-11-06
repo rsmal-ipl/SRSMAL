@@ -65,11 +65,10 @@ layout: default
 
 # Teaching
 
-<ul class="my-list2">
-  <li>[Academic Qualifications](#academic-qualifications)</li>
-  <li>[Teaching Activities](#teaching-activities)</li>
-  <li>[Positions Held](#positions-held)</li>
-</ul>
+- [Academic Qualifications](#academic-qualifications)
+- [Teaching Activities](#teaching-activities)
+- [Positions Held](#positions-held)
+
 ---
 
 # Academic Qualifications 
