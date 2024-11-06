@@ -6,26 +6,26 @@ layout: default
 
 <style>
 
-  /* Define o menu de navegação horizontal */
-  .page-list {
+ /* Torna o menu dentro de <nav> horizontal */
+  nav ul {
     display: flex;
-    justify-content: space-around; /* Espaça uniformemente as abas */
-    list-style: none; /* Remove os marcadores da lista */
+    justify-content: space-around; /* Distribui as abas uniformemente */
+    list-style: none; /* Remove os marcadores de lista */
     padding: 0;
   }
 
-  .page-list li {
+  nav ul li {
     margin: 0 10px; /* Espaçamento entre os itens */
   }
 
-  .page-list a {
-    padding: 10px 15px;
+  nav ul a {
+    padding: 10px 15px; /* Espaçamento interno dos links */
     text-decoration: none;
     color: inherit;
   }
 
-  .page-list a:hover {
-    text-decoration: underline;
+  nav ul a:hover {
+    text-decoration: underline; /* Efeito ao passar o mouse */
   }
   
   /* Estilo para o contêiner flex principal */
