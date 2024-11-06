@@ -6,7 +6,7 @@ layout: default
 
 <style>
 
- /* Estilo para o menu de navegação */
+   /* Estilo para o menu de navegação */
   nav ul {
     display: flex;
     list-style: none;
@@ -30,7 +30,7 @@ layout: default
     text-decoration: underline; /* Sublinhado ao passar o mouse */
   }
 
-  /* Destaca a aba da página atual usando o seletor [aria-current="page"] */
+  /* Destaca a aba da página atual usando o atributo aria-current */
   nav ul a[aria-current="page"] {
     color: #ff6600; /* Cor destacada para a aba ativa */
     font-weight: bold;

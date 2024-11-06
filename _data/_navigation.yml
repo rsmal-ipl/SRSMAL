@@ -1,11 +1,14 @@
-- title: "Home"
-  url: "/"
+theme: minima
 
-- title: "Teaching"
-  url: "/pages/teaching/"
+nav_links:
+  - title: "Home"
+    url: "/"
 
-- title: "Research"
-  url: "/pages/research/"
+  - title: "Teaching"
+    url: "/pages/teaching/"
 
-- title: "In Media"
-  url: "/pages/in_media/"
+  - title: "Research"
+    url: "/pages/research/"
+
+  - title: "In Media"
+    url: "/pages/in_media/"
