@@ -16,7 +16,7 @@ layout: default
   }
 
   nav ul li {
-    margin-right: 15px; /* Espaçamento entre itens do menu */
+    margin-right: 10px; /* Espaçamento entre itens do menu */
   }
 
   nav ul a {
