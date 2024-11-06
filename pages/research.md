@@ -78,10 +78,12 @@ layout: default
 # Research
 
 <div class="internal-nav">
-- [Projects](#projects)
-- [Publications](#publications)
-- [Supervisions](#supervisions)
-- [Article Reviews and Guest Editor](#article-reviews-and-guest-editor)
+  <ul>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#supervisions">Supervisions</a></li>
+    <li><a href="#article-reviews-and-guest-editor">Article Reviews and Guest Editor</a></li>
+  </ul>
 </div>
 
 ---
