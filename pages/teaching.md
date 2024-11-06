@@ -77,9 +77,11 @@ layout: default
 # Teaching
 
 <div class="internal-nav">
-- [Academic Qualifications](#academic-qualifications)
-- [Teaching Activities](#teaching-activities)
-- [Positions Held](#positions-held)
+  <ul>
+    <li><a href="#academic-qualifications">Academic Qualifications</a></li>
+    <li><a href="#teaching-activities">Teaching Activities</a></li>
+    <li><a href="#positions-held">Positions Held</a></li>
+  </ul>
 </div>
 
 ---
