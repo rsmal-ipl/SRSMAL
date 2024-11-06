@@ -39,7 +39,7 @@ layout: default
     flex-direction: column;
     justify-content: flex-start; /* Garante que o conteúdo de contatos começa no topo */
     font-size: 1.3em;
-    line-height: 1.6em;
+    line-height: 1em;
     /*margin-top: 0;
     font-size: 1.3em;
     margin-left: 20px;  Aumentar a distância entre a imagem e os contatos */
@@ -72,7 +72,7 @@ layout: default
     <!-- Contatos ao lado direito da imagem -->
     <div class="contacts">
       <h2>Contacts</h2>
-	  <br>
+	  
       <div class="contact-item">Email (IPLeiria): <a href="mailto:ricardo.malheiro@ipleiria.pt">ricardo.malheiro@ipleiria.pt</a></div>
       <div class="contact-item">Email (University of Coimbra): <a href="mailto:rsmal@dei.uc.pt">rsmal@dei.uc.pt</a></div>
       <div class="contact-item">Skype ID: rsmal2010</div>
