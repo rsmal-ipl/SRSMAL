@@ -7,25 +7,32 @@ layout: default
 <style>
 
  /* Torna o menu dentro de <nav> horizontal */
+  /* Torna o menu dentro de <nav> horizontal e alinhado à esquerda */
   nav ul {
     display: flex;
-    justify-content: space-around; /* Distribui as abas uniformemente */
-    list-style: none; /* Remove os marcadores de lista */
+    list-style: none;
     padding: 0;
+    margin: 0;
   }
 
   nav ul li {
-    margin: 0 10px; /* Espaçamento entre os itens */
+    margin-right: 20px; /* Espaço entre os itens do menu, ajuste conforme necessário */
   }
 
   nav ul a {
-    padding: 10px 15px; /* Espaçamento interno dos links */
+    padding: 10px;
     text-decoration: none;
     color: inherit;
   }
 
   nav ul a:hover {
-    text-decoration: underline; /* Efeito ao passar o mouse */
+    text-decoration: underline; /* Sublinhado ao passar o mouse */
+  }
+
+  /* Destaca a aba da página atual */
+  nav ul .active a {
+    color: #ff6600; /* Escolha uma cor que destaque a aba ativa */
+    font-weight: bold;
   }
   
   /* Estilo para o contêiner flex principal */
