@@ -29,7 +29,7 @@ layout: default
 
 <br>
 
-## Research
+# Research
 
 - [Projects](#projects)
 - [Publications](#publications)
@@ -38,7 +38,7 @@ layout: default
 
 ---
 
-## Projects
+# Projects
 
 Below is a list of selected projects:
 
@@ -51,7 +51,7 @@ Below is a list of selected projects:
   <li>Blockchain [<a href="https://blockchain.void.pt/" target="_blank">URL</a>]</li>
 </ul>
 
-### Other Projects
+## Other Projects
 <ul class="my-list">
   <li>EASMG (Emotion Annotation System in Music using Gamification techniques): 2024 [<a href="https://github.com/rsmal-ipl/EASMG-Project" target="_blank">URL</a>]</li>
   <li>ISAWS (Intelligent Sentiment Analysis Web System): 2024 [<a href="https://github.com/rsmal-ipl/ISAWS-Project" target="_blank">URL</a>]</li>
@@ -63,22 +63,22 @@ Below is a list of selected projects:
 
 ---
 
-## Publications
+# Publications
 
 Below is a list of selected publications:
-### Books
+## Books
 <ul class="my-list">
   <li><strong>Ricardo Malheiro</strong>. Emotions Detection in Music Lyrics using Machine Learning and Keyword-Based Approaches. Novas Edições Académicas, ISBN-13: 978-6202188548, 216 pages, 2018. [<a href="https://www.amazon.com/s?k=Emotions+Detection+in+Music+Lyrics+using+Machine+Learning+and+Keyword-Based+Approaches.&crid=2XNU9JMHRDG9A&sprefix=emotions+detection+in+music+lyrics+using+machine+learning+and+keyword-based+approaches.%2Caps%2C387&ref=nb_sb_noss" target="_blank">URL</a>]</li>
 </ul>
 
-### Thesis
+## Thesis
 <ul class="my-list">
   <li><strong>PhD Thesis</strong>: Ricardo Malheiro, Emotion-Based Analysis and Classification of Music Lyrics, Ph.D. Dissertation, University of Coimbra, 2017. [<a href="https://www.cisuc.uc.pt/download-file/16191/qSAolsa0eZYx3n93xQqI" target="_blank">PDF</a>]</li>
   <li><strong>Master's Thesis</strong>: Ricardo Malheiro, Automatic Classification Systems in Musical Genres*, M.S. Thesis, University of Coimbra - Department of Informatics Engineering, 2004. [<a href="https://www.cisuc.uc.pt/download-file/13371/EBAW3IW9eMKs8MLH2jWh" target="_blank">PDF</a>]</li>
   <li><strong>Bachelor's Thesis</strong>: Ricardo Malheiro, Web Technology Application in Multimedia Kiosks, 1997. </li>
 </ul>
 
-### Journal Papers
+## Journal Papers
 <ul class="my-list">
   <li><strong>Louro, P., Redinho, H., Malheiro, R., Paiva, R. P., Panda, R. </strong> (2024). A Comparison Study of Deep Learning Methodologies for Music Emotion Recognition, Sensors, in Sensors, vol. 24, no. 7. [<a href="https://www.mdpi.com/1424-8220/24/7/2201" target="_blank">DOI</a>], [<a href="https://www.cisuc.uc.pt/download-file/19307/jhSAk00x8VimjJX8MeFE" target="_blank">PDF</a>]</li>
   <li><strong>Panda, R., Malheiro, R., Paiva, R. P.</strong> (2023). Audio Features for Music Emotion Recognition: A Survey. IEEE Transactions on Affective Computing. vol. 14, no. 1, pp. 68-88. [<a href="https://ieeexplore.ieee.org/document/9229494" target="_blank">DOI</a>], [<a href="https://www.cisuc.uc.pt/download-file/14619/B38pDkyuVEUQs6nMhriI" target="_blank">PDF</a>]</li>
@@ -87,7 +87,7 @@ Below is a list of selected publications:
   <li><strong>Malheiro, R., Paiva, R. P., Mendes, A. J., Mendes, T. and Cardoso, A.</strong> (2004). Sistemas de Classificação Musical com Redes Neuronais, Gestão e Desenvolvimento, vol. 12, pp. 167-195. [<a href="https://revistas.ucp.pt/index.php/gestaoedesenvolvimento/article/view/110" target="_blank">DOI</a>], [<a href="https://www.cisuc.uc.pt/download-file/16187/wMe23Lh02rwD640aozCO" target="_blank">PDF</a>]</li>
 </ul>
 
-### Conference Papers
+## Conference Papers
 <ul class="my-list">
   <li><strong>Panda, R., Redinho, H., Gonçalves, C., Malheiro, R., Paiva, R. P.</strong> (2021). How Does the Spotify API Compare to the Music Emotion Recognition State-of-the-Art?. in Proceedings of the 18th Sound and Music Computing Conference (SMC 2021), pp. 238-245. [<a href="https://zenodo.org/records/5054146" target="_blank">DOI</a>], [<a href="https://www.cisuc.uc.pt/download-file/16352/44W4Ao3Sx9CdMTDx2RrJ" target="_blank">PDF</a>]</li>
   <li><strong>Panda, R., Malheiro, R. and Paiva, R. P.</strong> (2018). Musical Texture and Expressivity Features for Music Emotion Recognition. in 19th International Society for Music Information Retrieval Conference – ISMIR 2018, Paris, France, September 23 27. [<a href="https://zenodo.org/records/1492431" target="_blank">DOI</a>], [<a href="https://www.cisuc.uc.pt/download-file/13993/BSqgLBNZK0W9EYEnzIc8" target="_blank">PDF</a>]</li>
@@ -109,10 +109,10 @@ Below is a list of selected publications:
 
 ---
 
-## Supervisions
+# Supervisions
 
 Below the list of current PhD students. Due to the large number, I do not identify here students who I supervise at Master's, Bachelor's, or Tesp degrees (present or past). 
-### PhD Students
+## PhD Students
 
 <ul class="my-list">
   <li><strong>Tiago Ribeiro</strong>: (started 2024): Conditioned Cross-Modal Music and Lyrics Generation. Doctoral Program in Informatics Engineering, University of Coimbra. Main Supervisor. </li>
@@ -124,14 +124,14 @@ Below the list of current PhD students. Due to the large number, I do not identi
 
 ---
 
-## Article Reviews and Guest Editor
+# Article Reviews and Guest Editor
 
-### Article Reviews
+## Article Reviews
 <ul class="my-list">
   <li>I have conducted dozens of reviews for journals and conferences, many of which are Q1 and/or classified as A-level, such as IEEE Transactions on Affective Computing, Journal of Ambient Intelligence and Humanized Computing, Journal of New Music Research, IEEE Signal Processing Letters, IEEE Access, etc.</li>
 </ul>
 
-### Guest Editor
+## Guest Editor
 <ul class="my-list">
   <li>Special Issue on Recent Applications of Feature Extraction Technologies in Video Analysis. in Electronics (ISSN 2079-9292). This special issue belongs to the section "Electronic Multimedia". [<a href="https://www.mdpi.com/journal/electronics/special_issues/A4U666316N" target="_blank">URL</a>]</li>
 </ul>

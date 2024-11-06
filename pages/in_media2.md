@@ -39,7 +39,7 @@ layout: default
 
 
 <div style="font-size: 0.9em; text-align: center;">
-    <img src="../assets/images/Figura1.png" alt="Research Team" style="width: 80%; height: auto;">
+    <img src="../assets/images/Figura1.png" alt="Research Team" style="width: 60%; height: auto;">
     <p style="font-size: medium;">From left to right: Renato Panda, Rui Pedro Paiva, and Ricardo Malheiro</p>
 </div>
 

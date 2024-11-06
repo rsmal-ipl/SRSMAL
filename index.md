@@ -13,7 +13,7 @@ layout: default
 
   /* Ajustar imagem na página index.md */
   .index-image {
-    /*width: 260px;  Pode ajustar conforme necessário */
+    width: 200px;  /*Pode ajustar conforme necessário */
     border-radius: 10%;
   }
 
@@ -56,7 +56,7 @@ layout: default
   <div class="content-container">
     <!-- Imagem -->
     <div class="side-content">
-      <img src="RM.JPG" alt="Ricardo Malheiro" class="index-image" style="width: 200px; height: auto; height: auto;>
+      <img src="RM.JPG" alt="Ricardo Malheiro" class="index-image">
     </div>
 
     <!-- Contatos ao lado direito da imagem -->
