@@ -6,17 +6,18 @@ layout: default
 
 <style>
 
- /* Torna o menu dentro de <nav> horizontal */
-  /* Torna o menu dentro de <nav> horizontal e alinhado à esquerda */
+ /* Estilo para o menu de navegação */
   nav ul {
     display: flex;
     list-style: none;
     padding: 0;
     margin: 0;
+    font-size: 18px; /* Aumenta o tamanho da fonte */
+    font-family: Arial, sans-serif; /* Define uma fonte sem serifa */
   }
 
   nav ul li {
-    margin-right: 20px; /* Espaço entre os itens do menu, ajuste conforme necessário */
+    margin-right: 20px; /* Espaçamento entre itens do menu */
   }
 
   nav ul a {
@@ -29,9 +30,9 @@ layout: default
     text-decoration: underline; /* Sublinhado ao passar o mouse */
   }
 
-  /* Destaca a aba da página atual */
-  nav ul .active a {
-    color: #ff6600; /* Escolha uma cor que destaque a aba ativa */
+  /* Destaca a aba da página atual usando o seletor [aria-current="page"] */
+  nav ul a[aria-current="page"] {
+    color: #ff6600; /* Cor destacada para a aba ativa */
     font-weight: bold;
   }
   
