@@ -52,7 +52,7 @@ layout: default
 
 <div style="font-size: 0.9em;">
   
-  <br>
+  <br><br>
   <div class="content-container">
     <!-- Imagem -->
     <div class="side-content">

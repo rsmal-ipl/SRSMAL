@@ -53,7 +53,7 @@ layout: default
   <li>Faculty: Faculty of Science and Technology, University of Coimbra (FCTUC)</li>
 </ul>
 
-## 1997 - Bachelor's in Mathematics - Specialization in Systems and Computer Graphics Methods
+## 1997 - Bachelor's in Mathematics - Specialization in Computer Graphics Systems and Methods (5 years)
 <ul class="my-list">
   <li>Internship at CCG/ZGDV (Center for Computer Graphics) from June 1996 to February 1997, with a final grade of 18/20</li>
   <li>The internship involved implementing a Multimedia Kiosk for CP (Portuguese Railways)</li>
@@ -68,11 +68,11 @@ layout: default
 
 # Teaching Activities
 
-I have been a university professor since the academic year 1998/1999, teaching a wide variety of courses mainly in the fields of Informatics and Data Science at various levels, including Master's, Bachelor's, Technical Specialization Courses (TeSP), and Technological Specialization Courses (CET).
+<p>I have been a university professor since the academic year 1998/1999, teaching a wide variety of courses mainly in the fields of Informatics and Data Science at various levels, including Master's, Bachelor's, Technical Specialization Courses (TeSP), and Technological Specialization Courses (CET).</p>
 
-The main scientific areas taught include: Data Science, Artificial Intelligence, Project Management, and Software Engineering.
+<p>The main scientific areas taught include: Data Science, Artificial Intelligence, Project Management, Data Warehouses and Software Engineering.</p>
 
-Below are the courses taught in the current year:
+<p>Below are the courses taught in the current year:</p>
 
 ## 2024-2025
 
@@ -93,7 +93,7 @@ Below are the courses taught in the current year:
   <li>Enterprise Information Systems (TP), Master's in Management Control, ISCAC</li>
 </ul>
 
-Other courses frequently taught include Decision Support Systems, Data Warehouses and Big Data, Artificial Intelligence, and Software Project Management.
+<p>Other courses frequently taught include Decision Support Systems, Data Warehouses and Big Data, Artificial Intelligence, and Software Project Management.</p>
 
 [Back to top](#teaching)
 
@@ -101,24 +101,24 @@ Other courses frequently taught include Decision Support Systems, Data Warehouse
 
 # Positions Held
 
-Throughout my more than 20 years of experience, I have held several important positions, particularly at the Polytechnic Institute of Leiria (IPL) and Instituto Superior Miguel Torga (ISMT):
+<p>Throughout my more than 20 years of experience, I have held several important positions, particularly at the Polytechnic Institute of Leiria (IPL) and Instituto Superior Miguel Torga (ISMT):</p>
 
 <ul class="my-list">
-  <li>**Coordinator of the Information Technology Department** at ISMT (2006-2015 and 2018-2021). The position was held either in partnership with another faculty member or alone.</li>
-  <li>**Coordinator of the Bachelor's in Informatics (Bologna Process)** at ISMT (2018-2021)</li>
-  <li>**Coordinator of the Bachelor's in Computer Science for Business (Pre-Bologna)** at ISMT (2005-2009)</li>
-  <li>**Coordinator of the Bachelor's in Informatics (Pre-Bologna)** at ISMT (2007-2009)</li>
-  <li>**Coordinator of the Bachelor's in Informatics (Bologna Process)** at ISMT (2009-2015)</li>
-  <li>**Coordinator of the Bachelor's in Computer Science for Business (Bologna Process)** at ISMT (2009-2015)</li>
-  <li>**Coordinator of the CET in Business Informatics Applications** at ISMT (2009-2012)</li>
-  <li>**Coordinator of the CET in Information Systems Technologies and Programming** at ISMT (2009-2012)</li>
-  <li>**Creation and Coordination of the Information Systems and Technologies Laboratory (LSTI)** at ISMT in 2007 and from 2007 to 2008</li>
-  <li>**Full Member of the Pedagogical Council** at ISMT (2008-2017)</li>
-  <li>**Full Member of the Scientific Council** at ISMT (2018-2021)</li>
-  <li>**Administrator of the e-learning platform (Moodle)** at ISMT (2007-2021)</li>
-  <li>**Manager of the Microsoft Imagine platform licenses** (formerly Dreamspark, now Azure) at ISMT (2009-2019)</li>
-  <li>**Coordinator of the ISMT Computer Park** (2011-2013)</li>
-  <li>**Editorial Secretary for the scientific journal "Gestão e Desenvolvimento"** in 2004 for volume 12, published by Universidade Católica Portuguesa</li>
+  <li>Coordinator of the Information Technology Department** at ISMT (2006-2015 and 2018-2021). The position was held either in partnership with another faculty member or alone.</li>
+  <li><strong>Coordinator of the Bachelor's in Informatics (Bologna) </strong>at ISMT (2018-2021)</li>
+  <li><strong>Coordinator of the Bachelor's in Computer Science for Business (Pre-Bologna) </strong>at ISMT (2005-2009)</li>
+  <li><strong>Coordinator of the Bachelor's in Informatics (Pre-Bologna) </strong>at ISMT (2007-2009)</li>
+  <li><strong>Coordinator of the Bachelor's in Informatics (Bologna) </strong>at ISMT (2009-2015)</li>
+  <li><strong>Coordinator of the Bachelor's in Computer Science for Business (Bologna) </strong>at ISMT (2009-2015)</li>
+  <li><strong>Coordinator of the CET in Business Informatics Applications </strong>at ISMT (2009-2012)</li>
+  <li><strong>Coordinator of the CET in Information Systems Technologies and Programming </strong>at ISMT (2009-2012)</li>
+  <li><strong>Creation and Coordination of the Information Systems and Technologies Laboratory (LSTI) </strong>at ISMT in 2007 and from 2007 to 2008</li>
+  <li><strong>Full Member of the Pedagogical Council </strong>at ISMT (2008-2017)</li>
+  <li><strong>Full Member of the Scientific Council </strong>at ISMT (2018-2021)</li>
+  <li><strong>Administrator of the e-learning platform (Moodle) </strong>at ISMT (2007-2021)</li>
+  <li><strong>Manager of the Microsoft Imagine platform licenses </strong>(formerly Dreamspark, now Azure) at ISMT (2009-2019)</li>
+  <li><strong>Coordinator of the ISMT Computer Park </strong>(2011-2013)</li>
+  <li><strong>Editorial Secretary for the scientific journal "Gestão e Desenvolvimento" </strong>in 2004 for volume 12, published by Universidade Católica Portuguesa</li>
 </ul>
 
 [Back to top](#teaching)
