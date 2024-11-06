@@ -56,20 +56,33 @@ layout: default
   line-height: 1.6em;
 }
 
-.my-list2 {
-  font-size: 1.3em;
-  line-height: 0.8em;
-}
+ /* Estilo para os links de navegação interna na página */
+  .internal-nav {
+    font-size: 1.2em; /* Aumenta o tamanho da fonte dos links internos */
+    font-weight: bold;
+    line-height: 1.5em;
+  }
+
+  .internal-nav a {
+    color: #333; /* Cor do link, ajuste conforme necessário */
+    text-decoration: none;
+  }
+
+  .internal-nav a:hover {
+    text-decoration: underline;
+  }
 </style>
 
 <br>
 
 # Research
 
+<div class="internal-nav">
 - [Projects](#projects)
 - [Publications](#publications)
 - [Supervisions](#supervisions)
 - [Article Reviews and Guest Editor](#article-reviews-and-guest-editor)
+</div>
 
 ---
 
