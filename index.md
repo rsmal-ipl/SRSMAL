@@ -5,36 +5,42 @@ layout: default
 ---
 
 <style>
-  /* Ajustar o tamanho da fonte para parágrafos */
-  .page-content p {
-    font-size: 1.3em;
-    line-height: 1.6em;
-  }
-
-  /* Ajustar imagem na página index.md */
-  .index-image {
-    width: 200px;  /*Pode ajustar conforme necessário */
-    border-radius: 10%;
-  }
-
   /* Estilo para o contêiner flex principal */
   .content-container {
     display: flex;
     align-items: flex-start;
     margin-bottom: 20px;
   }
+  
+  /* Ajustar o tamanho da fonte para parágrafos 
+  .page-content p {
+    font-size: 1.3em;
+    line-height: 1.6em;
+  }*/
 
   /* Estilo para a coluna de imagem */
   .side-content {
-    flex: 0 0 auto;
-    padding-right: 40px; /* Aumentar a distância entre a imagem e os contatos */
+    margin-right: 20px;
+    /*flex: 0 0 auto;
+    padding-right: 40px;  Aumentar a distância entre a imagem e os contatos */
+  }
+  
+  
+  /* Ajustar imagem na página index.md */
+  .index-image {
+    width: 200px;  /*Pode ajustar conforme necessário */
+    border-radius: 10%;
   }
 
+  
   /* Estilo para a seção de contatos à direita da imagem */
   .contacts {
-    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Garante que o conteúdo de contatos começa no topo */
+    /*margin-top: 0;
     font-size: 1.3em;
-    margin-left: 20px; /* Aumentar a distância entre a imagem e os contatos */
+    margin-left: 20px;  Aumentar a distância entre a imagem e os contatos */
   }
 
   /* Estilo para remover bullets e melhorar a aparência dos contatos */
@@ -43,29 +49,16 @@ layout: default
   }
 
   /* Estilo para o texto principal */
-  .main-text {
-    margin-top: 30px; /* Espaço para iniciar abaixo da imagem e dos contatos */
+ /* .main-text {
+    margin-top: 30px;  Espaço para iniciar abaixo da imagem e dos contatos 
     font-size: 1.3em;
     line-height: 1.6em;
-  }
+  }*/
 </style>
 
 <div style="font-size: 0.9em;">
   
-  <br><br>
-
-<div class="content-container">
-  <img src="RM.jpg" alt="Imagem" class="index-image">
-  <div>
-    <!-- Conteúdo de contatos aqui -->
-    <p>Contact Information:</p>
-    <p>Email: your-email@example.com</p>
-    <p>Phone: +123456789</p>
-  </div>
-</div>
-
-
-<br><br>
+ <br><br>
 
 
   <div class="content-container">
