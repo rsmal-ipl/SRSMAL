@@ -20,7 +20,7 @@ layout: default
 
   /* Estilo para a coluna de imagem */
   .side-content {
-    margin-right: 20px;
+    margin-right: 40px;
     /*flex: 0 0 auto;
     padding-right: 40px;  Aumentar a distância entre a imagem e os contatos */
   }
@@ -49,11 +49,11 @@ layout: default
   }
 
   /* Estilo para o texto principal */
- /* .main-text {
-    margin-top: 30px;  Espaço para iniciar abaixo da imagem e dos contatos 
+  .main-text {
+    margin-top: 30px;  /*Espaço para iniciar abaixo da imagem e dos contatos*/ 
     font-size: 1.3em;
     line-height: 1.6em;
-  }*/
+  }
 </style>
 
 <div style="font-size: 0.9em;">
