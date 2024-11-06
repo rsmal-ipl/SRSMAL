@@ -5,6 +5,25 @@ layout: default
 ---
 
 <style>
+
+  /* Torna o menu de navegação horizontal */
+  .site-nav {
+    display: flex;
+    justify-content: space-around; /* Distribui os itens de forma equilibrada */
+    list-style: none; /* Remove os marcadores de lista */
+    padding: 0;
+  }
+
+  .site-nav a {
+    padding: 10px 15px; /* Adiciona espaçamento ao redor dos links */
+    text-decoration: none; /* Remove o sublinhado dos links */
+    color: inherit; /* Usa a cor de texto padrão */
+  }
+
+  .site-nav a:hover {
+    text-decoration: underline; /* Sublinha o link ao passar o mouse */
+  }
+  
   /* Estilo para o contêiner flex principal */
   .content-container {
     display: flex;
