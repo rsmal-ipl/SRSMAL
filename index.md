@@ -53,6 +53,21 @@ layout: default
 <div style="font-size: 0.9em;">
   
   <br><br>
+
+<div class="content-container">
+  <img src="RM.jpg" alt="Imagem" class="index-image">
+  <div>
+    <!-- Conteúdo de contatos aqui -->
+    <p>Contact Information:</p>
+    <p>Email: your-email@example.com</p>
+    <p>Phone: +123456789</p>
+  </div>
+</div>
+
+
+<br><br>
+
+
   <div class="content-container">
     <!-- Imagem -->
     <div class="side-content">
