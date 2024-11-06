@@ -59,7 +59,7 @@ layout: default
 
 <br>
 
-## In Media
+# In Media
 
 <ul class="my-list">
   Information about our projects in the media:
