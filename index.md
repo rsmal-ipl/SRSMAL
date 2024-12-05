@@ -42,6 +42,7 @@ layout: default
     align-items: flex-start;
     margin-bottom: 20px;
   }
+  <link rel="icon" type="image/x-icon" href="RM.ico">
   
   /* Ajustar o tamanho da fonte para parágrafos 
   .page-content p {
