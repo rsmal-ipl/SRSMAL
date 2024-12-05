@@ -122,7 +122,7 @@ layout: default
 
     <p>I supervise several students at the PhD, MSc, and Bachelor's levels. Currently (2024/2025), I am supervising 3 PhD students and 11 MSc students. Most of these students are part of the <a href="https://www.cisuc.uc.pt/en/projects/MERGE" target="_blank">MERGE</a> project (Music Emotion Recognition, Next Generation 2022-2025), funded by FCT (PTDC/CCI-COM/3171/2021), for which I serve as the Technical Coordinator and lead several tasks.</p>
 
-    <p>Personally, in addition to being interested in anything technology and gadgets (some), also in sports (Benfica), music (Bruce Springsteen, ...), cinema (hard to choose - anything good), TV (Seinfeld, Two and Half Men, ...), nature, travel, summer, family, friends :)</p>
+    <p>Personally, besides being interested in anything technology and gadgets (Kindle,...), I'm also interested in sports (Benfica, Football), music (Bruce Springsteen (above all),...), cinema ( It's hard to choose. There are so many), TV (Seinfeld, Two and a Half Men, 60 minutes, ...), nature, travel, summer, family, friends :)</p>
 
 
     <br>
