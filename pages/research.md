@@ -140,7 +140,8 @@ Below is a list of selected publications:
 
 ## Conference Papers
 <ul class="my-list">
-  <li><strong>Redinho, H., Louro, P., Santos, A., Malheiro, R., Paiva, R. P., Panda, R. </strong> (2024). Exploiting Automatic Source Separation and Music Transcription for Music Emotion Recognition. in Proc. [DOI], [PDF]</li>
+  
+  <li><strong>Redinho, H., Louro, P., Santos, A., Malheiro, R., Paiva, R. P., Panda, R. </strong> (2024). Exploiting Automatic Source Separation and Music Transcription for Music Emotion Recognition. in Proc. of Workshop on Affective Artificial Intelligence (A2I) at 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (ICPR 2024) [DOI], [PDF]</li>
   <li><strong>Louro, P., Redinho, H., Malheiro, R., Paiva, R. P., Panda, R. </strong> (2024). Improving Music Emotion Recognition By Leveraging Handcrafted And Learned Features. in Proc. of the 1st Latin American Music Information Retrieval Workshop, Rio de Janeiro, Brazil, 2024 (LAMIR 2024). [DOI], [PDF]</li>
   <li><strong>Ferreira, T. G., Redinho, H., Louro, P., Malheiro, R., Paiva, R. P., Panda, R. </strong> (2024). Exploring Song Segmentation for Music Emotion Variation Detection. in 15th International Workshop on Machine Learning and Music – MML 2024 – in conjunction with the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases – ECML/PKDD 2024, 2024. [DOI], [<a href="https://www.cisuc.uc.pt/download-file/20079/I6K6yWquZnCo4WlndSYm" target="_blank">PDF</a>]</li>
   
