@@ -194,7 +194,7 @@ Below the list of current PhD students. Due to the large number, I do not identi
 
 ## Guest Editor
 <ul class="my-list">
-  <li>Special Issue on Recent Applications of Feature Extraction Technologies in Video Analysis. in Electronics (ISSN 2079-9292). This special issue belongs to the section "Electronic Multimedia". [<a href="https://www.mdpi.com/journal/electronics/special_issues/A4U666316N" target="_blank">URL</a>][<a href="../assets/pdfs/RAFETVA_01.pdf" target="_blank">PDF1</a>][<a href="RAFETVA_02.png" target="_blank">PDF2</a>]</li>
+  <li>Special Issue on Recent Applications of Feature Extraction Technologies in Video Analysis. in Electronics (ISSN 2079-9292). This special issue belongs to the section "Electronic Multimedia". [<a href="https://www.mdpi.com/journal/electronics/special_issues/A4U666316N" target="_blank">URL</a>][<a href="../assets/pdfs/RAFETVA_01.pdf" target="_blank">PDF1</a>][<a href="../assets/pdfs/RAFETVA_02.png" target="_blank">PDF2</a>]</li>
 </ul>
 
 [Back to top](#research)
