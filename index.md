@@ -120,7 +120,7 @@ layout: default
 
     <p>I am currently an Adjunct Professor at the Polytechnic Institute of Leiria (<a href="https://www.ipleiria.pt/estg/" target="_blank">IPLeiria - ESTG</a>), Department of Informatics. I teach courses such as Decision Support Systems (Bach. in Informatics Engineering), Knowledge Engineering (Bach. in Informatics Engineering), Data Mining (MSc in Data Science), Text Mining (MSc in Data Science), and Software Engineering (Bach. in Informatics Engineering).</p>
 
-    <p>I supervise several students at the PhD, MSc, and Bachelor's levels. Currently (2024/2025), I am supervising 3 PhD students and 11 MSc students. Most of these students are part of the <a href="https://www.cisuc.uc.pt/en/projects/MERGE" target="_blank">MERGE</a> project (Music Emotion Recognition, Next Generation 2022-2025), funded by FCT (PTDC/CCI-COM/3171/2021), for which I serve as the Technical Coordinator and lead several tasks.</p>
+    <p>I supervise several students at the PhD, MSc, and Bachelor's levels. Currently (2024/2025), I am supervising 4 PhD students and 11 MSc students. Most of these students are part of the <a href="https://www.cisuc.uc.pt/en/projects/MERGE" target="_blank">MERGE</a> project (Music Emotion Recognition, Next Generation 2022-2025), funded by FCT (PTDC/CCI-COM/3171/2021), for which I serve as the Technical Coordinator and lead several tasks.</p>
 
     <p>Personally, besides being interested in anything technology and gadgets (Kindle,...), I'm also interested in sports (Benfica, Football), music (Bruce Springsteen (above all),...), cinema ( It's hard to choose. There are so many), TV (Seinfeld, Two and a Half Men, 60 minutes, ...), nature, travel, summer, family, friends :)</p>
 
